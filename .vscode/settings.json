@@ -1,0 +1,13 @@
+{
+     "java.errors.incompleteClasspath.severity": "ignore",
+    "java.jdt.ls.java.home":"D:/APP/Java/jdk1.8.0_301",
+    "java.configuration.maven.userSettings": "D:/APP/apache-maven-4.0.0-alpha-2/conf/settings.xml",
+    "maven.executable.path": "D:/APP/apache-maven-4.0.0-alpha-2/bin/mvn.cmd",
+    "maven.terminal.useJavaHome": true,
+    "maven.terminal.customEnv": [
+        {
+            "environmentVariable": "JAVA_HOME",
+            "value": "D:/APP/Java/jdk1.8.0_301"
+        }
+    ],
+}
